@@ -1,0 +1,9 @@
+{
+  "profile": {
+    "username": "davidavz",
+    "email": "david.a.davis@seattlecolleges.edu",
+    "bio": "bla bla Blaaaaa",
+    "notifications": false
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
